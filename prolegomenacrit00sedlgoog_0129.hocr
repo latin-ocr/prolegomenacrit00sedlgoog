@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prolegomenacrit00sedlgoog_0129.png"; bbox 0 0 2694 4658; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 232 733 1049 847">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 232 733 1049 847">
+     <span class='ocr_line' id='line_1_1' title="bbox 232 733 1049 847; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 232 733 625 847; x_wconf 77' lang='lat' dir='ltr'>KRITISOHER</span> <span class='ocrx_word' id='word_1_2' title='bbox 660 734 1049 846; x_wconf 78' lang='lat' dir='ltr'><strong>COMMENTAR</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 116 1355 1159 1508">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 116 1355 1159 1508">
+     <span class='ocr_line' id='line_1_2' title="bbox 116 1355 1159 1508; baseline 0.001 -2"><span class='ocrx_word' id='word_1_3' title='bbox 116 1355 459 1508; x_wconf 77' lang='lat' dir='ltr'>OVIDS</span> <span class='ocrx_word' id='word_1_4' title='bbox 525 1356 1159 1507; x_wconf 84' lang='lat' dir='ltr'>HEROIDEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 348 2007 930 2123">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 348 2007 930 2123">
+     <span class='ocr_line' id='line_1_3' title="bbox 348 2007 930 2123; baseline 0 -39"><span class='ocrx_word' id='word_1_5' title='bbox 348 2007 522 2087; x_wconf 78' lang='grc' dir='ltr'>ΗΕΙΝΗΙΰΗ</span> <span class='ocrx_word' id='word_1_6' title='bbox 541 2007 680 2085; x_wconf 60' lang='lat' dir='ltr'>sunu</span> <span class='ocrx_word' id='word_1_7' title='bbox 696 2007 930 2123; x_wconf 61' lang='lat' dir='ltr'><em>{mmmm</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1352 4658">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1352 4658">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1352 4658; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1352 4658; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
